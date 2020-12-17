@@ -1,0 +1,33 @@
+form {
+	background:#fff;
+	padding:1em;
+	border:1px #eee;
+	margin:1em;
+	width:25em;
+}
+
+fieldset, div {
+	text-align: center;
+	margin:0.3em 0;
+	clear:both;
+	margin: auto;
+	width:auto;
+}
+
+h2 {
+	text-align: center;
+}
+
+#calculate {
+	margin:1em;
+	width:69px;
+	height:26px;
+	overflow:hidden;
+	border:0;
+	text-align: center;
+	cursor:pointer; cursor:hand;
+}
+
+#calculate:hover {
+	background-position:0 -26px;
+}
